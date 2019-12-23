@@ -1,0 +1,175 @@
+#EXTM3U
+
+#EXTINF:0 tvg-logo="" group-title="TV INDONESIA",GLOBAL
+http://id6.indostreamingtv.com/live/tv1/index.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="TV INDONESIA",RCTI TV
+http://id6.indostreamingtv.com/live/rcti/index.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="TV INDONESIA",MNC TV
+http://id6.indostreamingtv.com/live/mnctv/index.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="TV INDONESIA",INDOSIAR
+http://id1.indostreamingtv.com/live/indosiar/index.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="TV INDONESIA",SCTV
+http://id1.indostreamingtv.com/live/sctv/index.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="TV INDONESIA",TRANS7 HD
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_b384000_sleng.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="TV INDONESIA",TRANS7
+http://id2.indostreamingtv.com/live/trans7/index.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="TV INDONESIA",TRANS TV 1
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1956745104_b384000_sleng.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="TV INDONESIA",TRANS TV 2
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1956745104_b280000_sleng.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="TV INDONESIA",TRANS TV 3
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1956745104_b192000_sleng.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="TV INDONESIA",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w572601585_b192000_sleng.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="TV INDONESIA",CNN indo HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w572601585_b384000_sleng.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="TV INDONESIA",ANTV 1
+http://id2.indostreamingtv.com/live/antv/index.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:0,LOKAL - Disney Junior SD
+http://103.47.132.164/PLTV/88888888/224/3221226011/02.m3u8
+
+#EXTINF:0, Disney Junior HD
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+
+#EXTINF:0, Disney Junior Other
+http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
+
+#EXTINF:0, Disney Junior 100p
+http://103.47.132.164/PLTV/88888888/224/3221226011/01.m3u8
+
+#EXTINF:0, Disney Junior 200p
+http://103.47.132.164/PLTV/88888888/224/3221226011/03.m3u8
+
+#EXTINF:0, Nat geo wild INDIHOME
+http://203.153.218.28:9981/stream/channelid/1497533758?ticket=36B439E64C5884A941F9938AD9373C4B849363BA&profile=pass
+
+#EXTINF:0, Nat geo wild 200p
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
+
+#EXTINF:0, Nat geo wild 100p
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/01.m3u8
+
+#EXTINF:0, Nat geo wild Other
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/index.m3u8
+
+#EXTINF:0, Nat geo wild SD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
+
+#EXTINF:0, MTV Asia
+http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
+
+#EXTINF:0, Maleo Channel
+http://stream1.ninmedia.tv/maleo/udp.stream_360p/playlist.m3u8
+
+#EXTINF:0, Tom N Jery nimo Tv
+http://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_low.flv?fluxustv.flv
+
+#EXTINF:0, Nat geograpic 100p
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/01.m3u8
+
+#EXTINF:0, Nat geograpic 200p
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/02.m3u8
+
+#EXTINF:0, Nat geograpic Other
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/index.m3u8
+
+#EXTINF:0, Nat geograpic 400p
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
+
+#EXTINF:0, Discovery HD
+http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass
+
+#EXTINF:0, JGO HD
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
+
+#EXTINF:0, Karaoke channel
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
+
+#EXTINF:0, Dangdut channel hot
+http://jakarta.nagaswarafm.com:8200/stream
+
+#EXTINF:0, Pop ch ninin media
+http://stream1.ninmedia.tv/popmusik/udp.stream_360p/media_w1026868218_68259.m3u8
+
+#EXTINF:0, Tv Desa ninin
+http://stream1.ninmedia.tv/tvdesa/udp.stream_360p/playlist.m3u8
+
+#EXTINF:0, China 4 Sd
+http://stream.mastvnet.com/MASTV/sd/live.m3u8
+
+#EXTINF:0, BBTV Ch 7 thailand
+http://live.pjmcdn.info/live/Ch7-HD.stream/chunklist_w642287957.m3u8
+
+#EXTINF:0, PPTV SD thailand
+http://183.182.100.184/live/pptvthai/playlist.m3u8
+
+#EXTINF:0, Autdoor Hooq
+https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_1/chunklist.m3u8
+
+#EXTINF:0, Autdoor Hooq 200p
+https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_0/chunklist.m3u8
+
+#EXTINF:0, Clubing Tv 300p
+https://livetvhooq.akamaized.net/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_1/chunklist.m3u8
+
+#EXTINF:0, Angri bird 300p
+https://redirector.googlevideo.com/videoplayback?expire=1576897907&ei=U3H9XYaoCJa71Abb8JbQAg&ip=206.189.38.119&id=380bb4931207d112&itag=18&source=picasa&begin=0&requiressl=yes&mm=30&mn=sn-npoe7n7z&ms=nxu&mv=m&mvi=5&pl=23&sc=yes&ttl=transient&susc=ph&app=fife&mime=video/mp4&dur=5807.937&lmt=1576808617755469&mt=1576890628&sparams=expire,ei,ip,id,itag,source,requiressl,ttl,susc,app,mime,dur,lmt&sig=ALgxI2wwRAIgTF6Ctk4RHVOrHS8xuvL21nzefFy0OSor0M7_tQiIIb0CICatdEn8FpujHYwS4Jp8a6SdBxW1QuAJ0ldB7yxIB4mS&lsparams=mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRQIhAICWsLETwhND5F9v8ImKUhUz_BuUQOpSpLd7TmnYB7FzAiA_aFsNFg8jXCPempp54uJx4ziGPYhiDdEN4dEgaAiC0w==&title=TERBIT21.COM%20-%20The%20Angry%20Birds%20Movie%202%20(2019)
+
+#EXTINF:0, BBC Earth
+http://iptv.secretly.tech:8888/live/Da3QzCutDR/6Ogqc5QLEp/256.m3u8
+
+#EXTINF:0, HBO HD by movon
+http://iptv.secretly.tech:8888/live/Da3QzCutDR/6Ogqc5QLEp/218.m3u8
+
+#EXTINF:0, History Sd by movon
+http://iptv.secretly.tech:8888/live/Da3QzCutDR/6Ogqc5QLEp/233.m3u8
+
+#EXTINF:0, Fox Movies
+http://iptv.secretly.tech:8888/live/Da3QzCutDR/6Ogqc5QLEp/219.m3u8
+
+#EXTINF:0, Fox Action Movies
+http://iptv.secretly.tech:8888/live/Da3QzCutDR/6Ogqc5QLEp/220.m3u8
+
+#EXTINF:0, HBO Family
+http://iptv.secretly.tech:8888/live/Da3QzCutDR/6Ogqc5QLEp/221.m3u8
+
+#EXTINF:0, CINEMAX FHD
+http://iptv.secretly.tech:8888/live/Da3QzCutDR/6Ogqc5QLEp/223.m3u8
+
+#EXTINF:0, Sony One
+http://iptv.secretly.tech:8888/live/Da3QzCutDR/6Ogqc5QLEp/241.m3u8
+
+#EXTINF:0, China 1
+http://iptv.secretly.tech:8888/live/Da3QzCutDR/6Ogqc5QLEp/250.m3u8
+
+#EXTINF:0, China 2
+http://iptv.secretly.tech:8888/live/Da3QzCutDR/6Ogqc5QLEp/251.m3u8
+
+#EXTINF:0, Disney Chanell FHD
+http://iptv.secretly.tech:8888/live/Da3QzCutDR/6Ogqc5QLEp/302.m3u8
+
+#EXTINF:0, Trans7 Sd By movon
+http://iptv.secretly.tech:8888/live/Da3QzCutDR/6Ogqc5QLEp/297.m3u8
