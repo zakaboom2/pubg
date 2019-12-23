@@ -1,182 +1,331 @@
+
+
 //Creator
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/481267847/vodo_logo_without_txt_400x400.gif" group-title="Informasi Creator",Voe Channel
 http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
 
+
+// TV INDONESIA
 #EXTM3U
 
-#EXTINF:-1, GTV 1 by Arye cell
-http://id6.indostreamingtv.com/live/tv1/index.m3u8
+#EXTINF:-1 tvg-id="TV ONE HD" tvg-logo="noimage.png" group-title="Indonesia TV", TV ONE HD
+https://dl.dropbox.com/s/og25nmf6u54dfx9/Tvone.m3u8?dl=0
 
-#EXTINF:0, RCTI 1
-http://id6.indostreamingtv.com/live/rcti/index.m3u8
+#EXTINF:-1 tvg-id="CNN INDONESIA HD" tvg-logo="noimage.png" group-title="Indonesia TV", CNN INDONESIA HD
+https://dl.dropbox.com/s/1tno4ahlb36dxd5/CNN%20Indo.m3u8?dl=0
+ 
 
-#EXTINF:0, MNC TV 1
-http://id6.indostreamingtv.com/live/mnctv/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TVRI" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Y7b1fAY4SCRsqOMoYe10kDjXee4=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="Indonesia TV",TVRI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(02)/index.m3u8
 
-#EXTINF:0, Indosiar1
-http://id1.indostreamingtv.com/live/indosiar/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TRANS 7" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/T_5P2D3GnALz61WJM-HRN_ju1H0=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-tv-stream-b793ab.jpg" group-title="Indonesia TV",TRANS 7
+http://id2.indostreamingtv.com:80/live/trans7/index.m3u8
 
-#EXTINF:0, SCTV 1
-http://id1.indostreamingtv.com/live/sctv/index.m3u8
+#EXTINF:-1 tvg-ID=""tvg-name="RCTI" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/hoeh27tqzgAbi2IJPnVnNCc25fQ=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-tv-stream-c1a96d.jpg" group-title="Indonesia TV",RCTI
+https://live.rctiplus.id/rctiplus/rcti_360p.m3u8
 
-#EXTINF:0, Trans7 A HD
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_b384000_sleng.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ANTV" tvg-logo="" group-title="Indonesia TV",ANTV http://id2.indostreamingtv.com:80/live/antv/index.m3u8
 
-#EXTINF:0, Trans7 A11 300p
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w930264398_b192000_sleng.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TRANS TV" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Tq_x61ycBlp0Q0xdf2pTuNnQslA=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-stream-7ab79a.jpg" group-title="Indonesia TV",TRANS TV HD
+http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
 
-#EXTINF:0, Trans7 B
-http://id2.indostreamingtv.com/live/trans7/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="METRO" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/UpuqwD5ozux1zPdyNesUDMPi1KM=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-stream-6c1dde.jpg" group-title="Indonesia TV",METRO TV
+http://202.80.222.183/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0, Trans7 C
-https://etslive-2-vidio-com.akamaized.net/exp=1576613733~acl=/hls-p/ingest_734_*/*~hmac=ea07f5ecb0b9793f92e51c012b134132818380924e8574b64b56bb7169dec35d/hls-p/ingest_734_720p/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SCTV" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/TCSGjxG6PuIyYzQE2LNFqTgEcng=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-150be8.jpg" group-title="Indonesia TV",SCTV
+http://id1.indostreamingtv.com:80/live/sctv/index.m3u8
 
-#EXTINF:0, Trans7 D
-https://etslive-2-vidio-com.akamaized.net/exp=1576613733~acl=/hls-b/ingest_734_*/*~hmac=0b26760d9f5ab94dff11ef1d02412157896371ad0128a4f11a2ec3360059c828/hls-b/ingest_734_360p/index.m3u8
+#EXTINF:-1 tvg-id="SCTV HD" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/TCSGjxG6PuIyYzQE2LNFqTgEcng=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-150be8.jpg" group-title="Indonesia TV", SCTV HD
+https://dl.dropbox.com/s/ooyykkqywfrscyh/Sctv.m3u8?dl=0
 
-#EXTINF:0, Trans7 E
-https://etslive-2-vidio-com.akamaized.net/exp=1576613733~acl=/hls-p/ingest_734_*/*~hmac=ea07f5ecb0b9793f92e51c012b134132818380924e8574b64b56bb7169dec35d/hls-p/ingest_734_240p/index.m3u8
 
-#EXTINF:0, TRANS TV 1
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1956745104_b384000_sleng.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="INDOSIAR" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/H_iXYpxkAg9JJ_GBwdRgyxloPFg=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-5ff623.jpg" group-title="Indonesia TV",INDOSIAR
+http://id1.indostreamingtv.com:80/live/indosiar/index.m3u8
 
-#EXTINF:0, TRANS TV 2
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1956745104_b280000_sleng.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="KOMPAS TV" tvg-logo="" group-title="Indonesia TV",KOMPAS TV
+http://202.80.222.130/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0, TRANS TV 3
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1956745104_b192000_sleng.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",RTV
+http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0, CNN Indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w572601585_b192000_sleng.m3u8
+#EXTINF:-1 tvg-id="GLOBAL TV HD" tvg-logo="noimage.png" group-title="Indonesia TV", GLOBAL TV HD
+https://dl.dropbox.com/s/phpfg274xbjqxbl/GTV.m3u8?dl=0
 
-#EXTINF:0, CNN indo HD
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w572601585_b384000_sleng.m3u8
+#EXTINF:-1 tvg-id="MNC TV HD" tvg-logo="noimage.png" group-title="Indonesia TV", MNC TV HD
+https://dl.dropbox.com/s/iruxo9yn5l00abd/MNCTV.m3u8?dl=0
+ 
 
-#EXTINF:0, ANTV 1
-http://id2.indostreamingtv.com/live/antv/index.m3u8
+ 
 
-#EXTINF:0, Disney Junior SD
-http://103.47.132.164/PLTV/88888888/224/3221226011/02.m3u8
+// TV INDONESIA LAIN-LAIN
 
-#EXTINF:0, Disney Junior HD
+
+#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",ADI TV YOGYAKARTA
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",JTV
+http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="JTV" tvg-logo="" group-title="Indonesia TV",JTV
+http://122.248.43.138:1935/ch2/myStream/chunklist_w1843041589.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="I NEWS" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/w5kdmaQL4MOpk3mLVFcSUPHvj68=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-tv-stream-966ec1.jpg" group-title="Indonesia TV",I NEWS
+http://202.80.222.171:80/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-ID="" tvg-name="J'go" tvg-logo="" group-title="Indonesia TV",J'go
+http://edge.linknetott.swiftserve.com:80/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8?fluxustv.m3u8
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Tv 9" tvg-logo="" group-title="Indonesia TV",TV 9
+http://202.80.222.178:80/000001/2/ch00000000000000001522/1001.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="AHSAN TV" tvg-logo="" group-title="Indonesia TV",Ahsan TV
+http://119.82.224.75:1935/live/ahsantv/chunk.m3u8 
+
+#EXTINF:-1 tvg-ID="" tvg-name="KITANESIA" tvg-logo="" group-title="Indonesia TV",KITANESIA
+http://stream1.ninmedia.tv:80/kitanesia/udp.stream_360p/chunklist_w1724227292.m3u8
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="DANGDUT TV" tvg-logo="" group-title="Indonesia TV",DANGDUT TV
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="THE INDONESIA CHANEL" tvg-logo="" group-title="Indonesia TV",THE INDONESIA CHANEL
+http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",Usee Photo
+https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_2/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",Usee Prime
+livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566690~exp=9007200824307681~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_2/chunklist.m3u8*~hmac=cc4223b8bfbb07d175ad755bd540d8f9f273de2b47c7ddb69470a49c4be61140
+
+
+
+//END
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY JUNIOR" tvg-logo="" group-title="KIDS TV",DISNEYJUNIORID 
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
-#EXTINF:0, Disney Junior Other
-http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ANIMAX" tvg-logo="" group-title="KIDS TV",ANIMAX 
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
 
-#EXTINF:0, Disney Junior 100p
-http://103.47.132.164/PLTV/88888888/224/3221226011/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MIAO MI" tvg-logo="'http://miaomi-tv.com/Public/images/miao-mi-logo-color.png" group-title="KIDS TV",Miao Mi
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8?fluxustv.m3u8
 
-#EXTINF:0, Disney Junior 200p
-http://103.47.132.164/PLTV/88888888/224/3221226011/03.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="HBO HD" tvg-logo="" group-title="MOVIE TV",HBO HD
+https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
 
-#EXTINF:0, Nat geo wild INDIHOME
-http://203.153.218.28:9981/stream/channelid/1497533758?ticket=36B439E64C5884A941F9938AD9373C4B849363BA&profile=pass
+#EXTINF:-1 tvg-ID="" tvg-name="HBO SIGNATURE" tvg-logo="" group-title="MOVIE TV",HBO Signature
+https://www.livedoomovie.com/02_HBOSignature_720p/chunklist.m3u8
 
-#EXTINF:0, Nat geo wild 200p
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="HBO HIT" tvg-logo="" group-title="MOVIE TV",HBO HIT
+https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
 
-#EXTINF:0, Nat geo wild 100p
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="HBO FAMILY" tvg-logo="" group-title="MOVIE TV",HBO FAMILY
+https://www.livedoomovie.com/02_HBOFamily_720p/chunklist.m3u8
 
-#EXTINF:0, Nat geo wild Other
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SATKIDS" tvg-logo="" group-title="KIDS TV",SATKIDS
+http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
 
-#EXTINF:0, Nat geo wild SD
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="POP" tvg-logo="" group-title="KIDS TV",POP
+https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/tracks-v1a1/mono.m3u8
 
-#EXTINF:0, MTV Asia
-http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DISNY JUNIOR" tvg-logo="" group-title="KIDS TV",DISNEY JUNIOR 
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
-#EXTINF:0, Maleo Channel
-http://stream1.ninmedia.tv/maleo/udp.stream_360p/playlist.m3u8
 
-#EXTINF:0, Tom N Jery nimo Tv
-http://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_low.flv?fluxustv.flv
+#EXTINF:-1 tvg-ID="" tvg-name="DISNYJUNIOR ID" tvg-logo="" group-title="KIDS TV",DISNEYJUNIOR ID 
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
-#EXTINF:0, Nat geograpic 100p
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MIAO MI" tvg-logo="''http://miaomi-tv.com/Public/images/miao-mi-logo-color.png" group-title="KIDS TV",Miao Mi
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8?fluxustv.m3u8
 
-#EXTINF:0, Nat geograpic 200p
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/02.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SATKIDS" tvg-logo="" group-title="KIDS TV",Disney Junior Indonesia
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
-#EXTINF:0, Nat geograpic Other
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AD SPORT 1" tvg-logo="" group-title="SPORT TV",ADSPORT1
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?VIPIPTV
 
-#EXTINF:0, Nat geograpic 400p
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AD SPORT" tvg-logo="" group-title="SPORT TV",ADSPORT2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?VIPIPTV
 
-#EXTINF:0, Discovery HD
+#EXTINF:-1 tvg-ID="" tvg-name="FASIONTV" tvg-logo="" group-title="SPORT TV",FASION TV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX" tvg-logo="" group-title="INDIHOME TV",FOX
+http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX FAMILI MOVIES" tvg-logo="" group-title="INDIHOME TV",FOX Family Movies
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX MOVIES" tvg-logo="" group-title="INDIHOME TV",Fox Movies
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
+
+#EXTINF:-1 tvg-ID="" tvg-name="HBO FAMILY" tvg-logo="" group-title="INDIHOME TV",HBO Family
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
+
+#EXTINF:-1 tvg-ID="" tvg-name="HBO SIGNATURE" tvg-logo="" group-title="INDIHOME TV",HBO Signature
+http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
+
+#EXTINF:-1 tvg-ID="" tvg-name="CINEMAX" tvg-logo="" group-title="INDIHOME TV",Cinemax
+http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
+
+#EXTINF:-1 tvg-ID="" tvg-name="ANIMAL PLANET" tvg-logo="" group-title="INDIHOME TV",Animal Planet
+http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
+
+#EXTINF:-1 tvg-ID="" tvg-name="ASIAN FOOD CHANEL" tvg-logo="" group-title="INDIHOME TV",Asian Food Channel
+http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
+
+#EXTINF:-1 tvg-ID="" tvg-name="AXN" tvg-logo="" group-title="INDIHOME TV",AXN
+http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
+
+#EXTINF:-1 tvg-ID="" tvg-name="BBC WORLD NEWS" tvg-logo="" group-title="INDIHOME TV",BBC World News
+http://203.153.218.28:9981/stream/channelid/861591723?ticket=F0599E847F90B5FE81ADFE5AD5296885A461DA19&profile=pass
+
+#EXTINF:-1 tvg-ID="" tvg-name="BLOOMBERG INTERNATIONAL" tvg-logo="" group-title="INDIHOME TV",Bloomberg International
+http://203.153.218.28:9981/stream/channelid/78064174?ticket=4490D953FCAC1483DE94BE2C4D1F241E5319BCD8&profile=pass
+
+#EXTINF:-1 tvg-ID="" tvg-name="BLUE ANT EXTREME" tvg-logo="" group-title="INDIHOME TV",Blue Ant Extreme
+http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass
+
+#EXTINF:-1 tvg-ID="" tvg-name="CARTOON NETWORK" tvg-logo="" group-title="INDIHOME TV",Cartoon Network
+http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
+
+#EXTINF:-1 tvg-ID="" tvg-name="DESNEY CHANNEL" tvg-logo="" group-title="INDIHOME TV",Disney Channel
+http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
+
+#EXTINF:-1 tvg-ID="" tvg-name="CNBC INTERNATIONAL" tvg-logo="" group-title="INDIHOME TV",CNBC International
+http://203.153.218.28:9981/stream/channelid/1744735983?ticket=07E4904EDFA549D56E57107CB6140923FE593775&profile=pass
+
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY CHANNEL" tvg-logo="" group-title="INDIHOME TV",Discovery Channel
 http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass
 
-#EXTINF:-1, JGO HD
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="HISTORY CHANNEL" tvg-logo="" group-title="INDIHOME TV",History Channel
+http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass
 
-#EXTINF:0, Karaoke channel
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NAT GEO PEOPLE" tvg-logo="" group-title="INDIHOME TV",NAT GEO People
+http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass
 
-#EXTINF:0, Dangdut channel hot
-http://jakarta.nagaswarafm.com:8200/stream
+#EXTINF:-1 tvg-ID="" tvg-name="NAT GEO WILD" tvg-logo="" group-title="INDIHOME TV",NAT GEO Wild
+http://203.153.218.28:9981/stream/channelid/1497533758?ticket=36B439E64C5884A941F9938AD9373C4B849363BA&profile=pass
 
-#EXTINF:0, Pop ch ninin media
-http://stream1.ninmedia.tv/popmusik/udp.stream_360p/media_w1026868218_68259.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="" group-title="INDIHOME TV",National Geographic
+http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
 
-#EXTINF:0, Tv Desa ninin
-http://stream1.ninmedia.tv/tvdesa/udp.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NICKELODEON ASIA" tvg-logo="" group-title="INDIHOME TV",Nickelodeon Asia
+http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
 
-#EXTINF:0, China 4 Sd
-http://stream.mastvnet.com/MASTV/sd/live.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TLC" tvg-logo="" group-title="INDIHOME TV",TLC
+http://203.153.218.28:9981/stream/channelid/391618553?ticket=08323DCACE84958A87EA829F012E919CA861DF74&profile=pass
 
-#EXTINF:0, BBTV Ch 7 thailand
-http://live.pjmcdn.info/live/Ch7-HD.stream/chunklist_w642287957.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" TVENO ViZYON 7" tvg-logo="" group-title="LAIN LAIN TV", TVENO ViZYON 7
+http://iptv6.premium-stv.com:25461/live/turkiapro1source/8564164562/1305.m3u8
 
-#EXTINF:0, PPTV SD thailand
-http://183.182.100.184/live/pptvthai/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MiNiKA COCUK" tvg-logo="" group-title="KIDS TV",MiNiKA COCUK
+http://iptv6.premium-stv.com:25461/live/turkiapro1source/8564164562/1269.m3u8
 
-#EXTINF:0, Autdoor Hooq
-https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_1/chunklist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN BOX OFFICE 2" tvg-logo="" group-title="MOVIE TV",BEIN BOX OFFICE 2
+http://iptv6.premium-stv.com:25461/live/turkiapro1source/8564164562/1284.m3u8
 
-#EXTINF:0, Autdoor Hooq 200p
-https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TRT AVAZ" tvg-logo="" group-title="MOVIE TV",TRT AVAZ
+http://iptv6.premium-stv.com:25461/live/turkiapro1source/8564164562/1286.m3u8
 
-#EXTINF:0, Clubing Tv 300p
-https://livetvhooq.akamaized.net/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_1/chunklist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="360 HD" tvg-logo="" group-title="LAIN LAIN TV",360 HD
+http://iptv6.premium-stv.com:25461/live/turkiapro1source/8564164562/1288.m3u8
 
-#EXTINF:0, Angri bird 300p
-https://redirector.googlevideo.com/videoplayback?expire=1576897907&ei=U3H9XYaoCJa71Abb8JbQAg&ip=206.189.38.119&id=380bb4931207d112&itag=18&source=picasa&begin=0&requiressl=yes&mm=30&mn=sn-npoe7n7z&ms=nxu&mv=m&mvi=5&pl=23&sc=yes&ttl=transient&susc=ph&app=fife&mime=video/mp4&dur=5807.937&lmt=1576808617755469&mt=1576890628&sparams=expire,ei,ip,id,itag,source,requiressl,ttl,susc,app,mime,dur,lmt&sig=ALgxI2wwRAIgTF6Ctk4RHVOrHS8xuvL21nzefFy0OSor0M7_tQiIIb0CICatdEn8FpujHYwS4Jp8a6SdBxW1QuAJ0ldB7yxIB4mS&lsparams=mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRQIhAICWsLETwhND5F9v8ImKUhUz_BuUQOpSpLd7TmnYB7FzAiA_aFsNFg8jXCPempp54uJx4ziGPYhiDdEN4dEgaAiC0w==&title=TERBIT21.COM%20-%20The%20Angry%20Birds%20Movie%202%20(2019)
+#EXTINF:-1 tvg-ID="" tvg-name="KANAL 7 HD" tvg-logo="" group-title="LAIN LAIN TV",KANAL 7 HD
+http://iptv6.premium-stv.com:25461/live/turkiapro1source/8564164562/1289.m3u8
 
-#EXTINF:0, BBC Earth
-http://iptv.secretly.tech:8888/live/Da3QzCutDR/6Ogqc5QLEp/256.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ENO VIZYON TV" tvg-logo="" group-title="LAIN LAIN TV",ENO ViZYON 14
+http://iptv6.premium-stv.com:25461/live/turkiapro1source/8564164562/1298.m3u8
 
-#EXTINF:0, HBO HD by movon
-http://iptv.secretly.tech:8888/live/Da3QzCutDR/6Ogqc5QLEp/218.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ENO VIZYON" tvg-logo="" group-title="LAIN LAIN TV",ENO ViZYON 1
+http://iptv6.premium-stv.com:25461/live/turkiapro1source/8564164562/1311.m3u8
 
-#EXTINF:0, History Sd by movon
-http://iptv.secretly.tech:8888/live/Da3QzCutDR/6Ogqc5QLEp/233.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SINEVIZYON TRUCK 4" tvg-logo="" group-title="LAIN LAIN TV",SINEVIZYON TURK 4
+http://iptv6.premium-stv.com:25461/live/turkiapro1source/8564164562/1319.m3u8
 
-#EXTINF:0, Fox Movies
-http://iptv.secretly.tech:8888/live/Da3QzCutDR/6Ogqc5QLEp/219.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NATIONAL GEO WILD" tvg-logo="" group-title="LAIN LAIN TV",NATIONAL GEO WiLD
+http://iptv6.premium-stv.com:25461/live/turkiapro1source/8564164562/1335.m3u8
 
-#EXTINF:0, Fox Action Movies
-http://iptv.secretly.tech:8888/live/Da3QzCutDR/6Ogqc5QLEp/220.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="YABAN TV HD" tvg-logo="" group-title="LAIN LAIN TV",YABAN TV HD
+http://iptv6.premium-stv.com:25461/live/turkiapro1source/8564164562/1337.m3u8
 
-#EXTINF:0, HBO Family
-http://iptv.secretly.tech:8888/live/Da3QzCutDR/6Ogqc5QLEp/221.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="" group-title="LAIN LAIN TV",NATIONAL GEOGRAPHIC
+http://iptv6.premium-stv.com:25461/live/turkiapro1source/8564164562/1338.m3u8
 
-#EXTINF:0, CINEMAX FHD
-http://iptv.secretly.tech:8888/live/Da3QzCutDR/6Ogqc5QLEp/223.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SINEVIZYON NOSTALJI 1" tvg-logo="" group-title="LAIN LAIN TV",SINEVIZYON NOSTALJI 1
+http://iptv6.premium-stv.com:25461/live/turkiapro1source/8564164562/1318.m3u8
 
-#EXTINF:0, Sony One
-http://iptv.secretly.tech:8888/live/Da3QzCutDR/6Ogqc5QLEp/241.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MOVIESINEMA AKSIYON" tvg-logo="" group-title="LAIN LAIN TV",MOVIESINEMA AKSiYON
+http://iptv6.premium-stv.com:25461/live/turkiapro1source/8564164562/1313.m3u8
 
-#EXTINF:0, China 1
-http://iptv.secretly.tech:8888/live/Da3QzCutDR/6Ogqc5QLEp/250.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BLUE SHINEMA ANIMASYON" tvg-logo="" group-title="LAIN LAIN TV",BLUE SINEMA ANIMASYON
+http://iptv6.premium-stv.com:25461/live/turkiapro1source/8564164562/1352.m3u8
 
-#EXTINF:0, China 2
-http://iptv.secretly.tech:8888/live/Da3QzCutDR/6Ogqc5QLEp/251.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NETSERVER ANIMASYON 3" tvg-logo="" group-title="LAIN LAIN TV",NETSERVER ANIMASYON 3
+http://iptv6.premium-stv.com:25461/live/turkiapro1source/8564164562/1353.m3u8
 
-#EXTINF:0, Disney Chanell FHD
-http://iptv.secretly.tech:8888/live/Da3QzCutDR/6Ogqc5QLEp/302.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NETSERVER ANIMASYON 2" tvg-logo="" group-title="LAIN LAIN TV",NETSERVER ANIMASYON 2
+http://iptv6.premium-stv.com:25461/live/turkiapro1source/8564164562/1354.m3u8
 
-#EXTINF:0, Trans7 Sd By movon
-http://iptv.secretly.tech:8888/live/Da3QzCutDR/6Ogqc5QLEp/297.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ASTRO MALESIA SURIA" tvg-logo="" group-title="LAIN LAIN TV",ASTRO MALAYSIA Suria
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="ASTRO MALESIA PRIMA" tvg-logo="" group-title="LAIN LAIN TV",ASTRO MALAYSIA Prima
+http://50.7.161.82:8278/Prima/playlist.m3u8?tid=m36fb09f3c61113453606&ct=17858&tsum=3095762479d46a3f27c12c65e15cf93f
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="LAIN LAIN TV",MALAYSIA", TV IKIM http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="LAIN LAIN TV",HD Fashion & Lifestyle UA
+http://95.67.47.115/hls/hdfashion_ua_mid/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="MTV HD" tvg-logo="noimage.png" group-title="LAIN LAIN TV",MTV HD
+https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+
+
+#EXTINF:-1 tvg-id="ULTRA HD CINEMA" tvg-logo="noimage.png" group-title="LAIN LAIN TV",Ultra HD Cinema
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-147600
+
+
+#EXTINF:-1 tvg-id="DuckTV HD" tvg-logo="noimage.png" group-title="KIDS TV",Duck TV HD
+http://51.15.190.120:38099/duckhd/live.m3u8
+
+#EXTINF:-1 tvg-id="SATKIDS" tvg-logo="noimage.png" group-title="KIDS TV",SATKIDS
+http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EBS KIDS" tvg-logo="noimage.png" group-title="KIDS TV",EBS KIDS
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SONY TEN 2" tvg-logo="noimage.png" group-title="LAIN LAIN TV",SONY ten2
+http://163.172.85.133:8080/TenS/1/index.m3u8
+
+#EXTINF:-1 tvg-id="FIGHT BOX" tvg-logo="noimage.png" group-title="LAIN LAIN TV",FightBox
+http://92.43.140.249/s86/04.m3u8
+
+#EXTINF:-1 tvg-id="SONY TEN 3" tvg-logo="noimage.png" group-title="LAIN LAIN TV",Sony Ten 3
+http://163.172.85.133:8080/TenS/3/index.m3u8
+
+#EXTINF:-1 logo="" group-title="SPORT TV",Olympic Channel 2
+http://ott-live.olympicchannel.com/out/u/OC2_1.m3u8
