@@ -1,6 +1,10 @@
+//Creator
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/481267847/vodo_logo_without_txt_400x400.gif" group-title="Informasi Creator",Voe Channel
+http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
+
 #EXTM3U
 
-#EXTINF:0, GTV 1 by Arye cell
+#EXTINF:-1, GTV 1 by Arye cell
 http://id6.indostreamingtv.com/live/tv1/index.m3u8
 
 #EXTINF:0, RCTI 1
@@ -105,7 +109,7 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
 #EXTINF:0, Discovery HD
 http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass
 
-#EXTINF:0, JGO HD
+#EXTINF:-1, JGO HD
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
 #EXTINF:0, Karaoke channel
