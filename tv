@@ -44,55 +44,55 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w572601585_b3840
 #EXTINF:0 tvg-logo="" group-title="TV INDONESIA",ANTV 1
 http://id2.indostreamingtv.com/live/antv/index.m3u8
 
-#EXTINF:0, group-title="Tv Indonesia",NET
+#EXTINF:0 group-title="Tv Indonesia",NET
 https://etslive-2-vidio-com.akamaized.net/exp=1576609487~acl=/hls-p/ingest_875_*/*~hmac=8948c3f3288f64bc03bbde7f3535093259b6cafd8848cd64ef4c48c1dafb8881/hls-p/ingest_875_720p/index.m3u8
  
-#EXTINF:0, group-title="Tv Indonesia",TRANS TV
+#EXTINF:0 group-title="Tv Indonesia",TRANS TV
 https://etslive-2-vidio-com.akamaized.net/exp=1576609770~acl=/hls-p/ingest_733_*/*~hmac=da240787b80601ea0c6c948983dc64c52c129fa0726811f85b701627ff4fcaaf/hls-p/ingest_733_720p/index.m3u8
  
-#EXTINF:0, group-title="Tv Indonesia",TRANS 7
+#EXTINF:0 group-title="Tv Indonesia",TRANS 7
 https://etslive-2-vidio-com.akamaized.net/exp=1576609860~acl=/hls-p/ingest_734_*/*~hmac=79b1398779788dd2d7f21cc2104e8cba7a4036999f66a1b0ddc3de809c14709e/hls-p/ingest_734_720p/index.m3u8
  
-#EXTINF:0, group-title="Tv Indonesia",RCTI
+#EXTINF:0 group-title="Tv Indonesia",RCTI
 https://etslive-2-vidio-com.akamaized.net/exp=1576609931~acl=/hls-p/ingest_665_*/*~hmac=927a64db2c0fe041251d18779a8c85527d9661bdce9f4f45ce03f6711a600fb2/hls-p/ingest_665_720p/index.m3u8
  
-#EXTINF:0, group-title="Tv Indonesia",MNC
+#EXTINF:0 group-title="Tv Indonesia",MNC
 https://etslive-2-vidio-com.akamaized.net/exp=1576609991~acl=/hls-p/ingest_870_*/*~hmac=021b17019dc3aab932e98c5c877c811e1729a5e951c04652b11172641da61f4d/hls-p/ingest_870_720p/index.m3u8
  
-#EXTINF:0, group-title="Tv Indonesia",GTV
+#EXTINF:0 group-title="Tv Indonesia",GTV
 https://etslive-2-vidio-com.akamaized.net/exp=1576610054~acl=/hls-p/ingest_778_*/*~hmac=72180cc8b801c16479bc70260b5dbefe8e25c3b5e16fc0230c11876f35f3d11a/hls-p/ingest_778_720p/index.m3u8
  
-#EXTINF:0, group-title="Tv Indonesia",SCTV
+#EXTINF:0 group-title="Tv Indonesia",SCTV
 https://etslive-2-vidio-com.akamaized.net/exp=1576608863~acl=/hls-b/ingest_204_*/*~hmac=8f94bc2d93e00790cb2bed92d9b9fa3aa5187d41b155813ae003ff4b15c0af11/hls-b/ingest_204_720p/index.m3u8
  
-#EXTINF:0, group-title="Tv Indonesia",INDOSIAR
+#EXTINF:0 group-title="Tv Indonesia",INDOSIAR
 https://etslive-2-vidio-com.akamaized.net/exp=1576609326~acl=/hls-p/ingest_205_*/*~hmac=de89e321cb3f8b6fc177dc82e22a6827d22872f8f8c6094189252a9542e94416/hls-p/ingest_205_720p/index.m3u8
  
-#EXTINF:0, group-title="Tv Indonesia",METRO
+#EXTINF:0 group-title="Tv Indonesia",METRO
 https://etslive-2-vidio-com.akamaized.net/exp=1576610108~acl=/hls-p/ingest_777_*/*~hmac=e300a90d5f0dd2e63709607efd8344181c67ea0a9fffd87c59cde56ab7c18025/hls-p/ingest_777_720p/index.m3u8
  
-#EXTINF:0, group-title="Tv Indonesia",KOMPAS
+#EXTINF:0 group-title="Tv Indonesia",KOMPAS
 https://etslive-2-vidio-com.akamaized.net/exp=1576610194~acl=/hls-p/ingest_874_*/*~hmac=c4c944af63f7e3871e7bc735fddfbeb54d6b844b32b1f0c4ee275f8995031a50/hls-p/ingest_874_720p/index.m3u8
  
-#EXTINF:0, group-title="Tv Indonesia",TV ONE
+#EXTINF:0 group-title="Tv Indonesia",TV ONE
 https://stream-01.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybD1F0kZgDRBeVcOp23KAAGY)/dm/3/x619221/s/live-3.m3u8
  
-#EXTINF:0, group-title="Tv Indonesia",ANTV
+#EXTINF:0 group-title="Tv Indonesia",ANTV
 http://210.210.155.35/session/ad0cf2fe-206b-11ea-b99b-8c97bb727e63/qwr9ew/s/s102/01.m3u8
  
-#EXTINF:0, group-title="Tv Indonesia",I NEWS
+#EXTINF:0 group-title="Tv Indonesia",I NEWS
 http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
  
-#EXTINF:0, group-title="Tv Indonesia",RTV
+#EXTINF:0 group-title="Tv Indonesia",RTV
 http://202.80.222.170:80/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
  
-#EXTINF:0, group-title="Tv Indonesia",ELSHINTA TV
+#EXTINF:0 group-title="Tv Indonesia",ELSHINTA TV
 http://rr2.dens.tv/s/s10/index.m3u8
  
-#EXTINF:0, group-title="Tv Indonesia",JTV
+#EXTINF:0 group-title="Tv Indonesia",JTV
 http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
  
-#EXTINF:0, group-title="Tv Indonesia",RRi net
+#EXTINF:0 group-title="Tv Indonesia",RRi net
 http://36.89.47.217:11935/rrinet/live/index.m3u8
 
 
