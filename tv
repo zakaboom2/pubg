@@ -2,6 +2,27 @@
 
 // INDONESIA TV ONLINE
 
+
+FOX LIFE,http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/1730
+FOX PREMIUM ACTION,http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/1731
+FOX PREMIUM CINEMA,http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/1732
+FOX PREMIUM CLASSICS,http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/1733
+FOX PREMIUM COMEDY,http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/1734
+FOX PREMIUM FAMILY,http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/1735
+FOX PREMIUM MOVIES,http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/1736
+FOX PREMIUM SERIES,http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/1737
+FOX PREMIUM SERIES (op2),http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/15538
+FOX SPORTS - CHILE,http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/612
+FOX SPORTS - MEXICO,http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/14881
+FOX SPORTS - PERU,http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/15482
+FOX SPORTS 1 (br),http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/14787
+FOX SPORTS 1 AR,http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/615
+FOX SPORTS 2,http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/613
+FOX SPORTS 2 (OP2),http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/611
+FOX SPORTS 2 - ARGENTINA,http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/617
+FOX SPORTS 3,http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/614
+FOX SPORTS 3 - ARGENTINA,http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/10999
+
 #EXTINF:0 tvg-logo="" group-title="TV INDONESIA",GLOBAL
 http://id6.indostreamingtv.com/live/tv1/index.m3u8
 
